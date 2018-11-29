@@ -4,6 +4,9 @@ For automatic app translations ( symfony, laravel ). Copy-paste ( need google AP
 
 
 Steps: 
+
+
+
 0. Add your API Key, without it, you get 403 forbidden
 1. Fill index.php array with values and choose target language
 2. Navigate to folder which contains code ( after git clone ) 
